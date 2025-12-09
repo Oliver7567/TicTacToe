@@ -14,6 +14,7 @@
 
 -First clone the repo then:
 
+mkdir build
 cd build
 cmake ..
 make
